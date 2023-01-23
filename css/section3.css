@@ -1,0 +1,37 @@
+.container3 {
+  display: flex;
+  align-items: center;
+  margin: 0 14rem;
+}
+.section3-text h3 {
+  width: 468px;
+  height: 98px;
+  left: 789px;
+  top: 2077px;
+
+  font-family: "Averta Demo PE Cutted Demo";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 49px;
+  margin-bottom: 3rem;
+  color: #000000;
+}
+.section3-text {
+  padding: 5rem;
+}
+.section3-text p {
+  width: 532px;
+  height: 104px;
+  left: 788px;
+  top: 2205px;
+  margin-top: 3rem;
+  font-family: "Averta Demo PE Cutted Demo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+  /* or 26px */
+
+  color: #565656;
+}
